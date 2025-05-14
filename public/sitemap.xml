@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:4532/posts/my-first-post/</loc>
-    <lastmod>2025-05-11T21:17:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4532/</loc>
-    <lastmod>2025-05-11T21:17:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4532/posts/</loc>
-    <lastmod>2025-05-11T21:17:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4532/categories/</loc>
-  </url><url>
-    <loc>http://localhost:4532/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:3605/en/sitemap.xml</loc>
+    
+      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:3605/it/sitemap.xml</loc>
+    
+      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:3605/ja/sitemap.xml</loc>
+    
+      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:3605/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
